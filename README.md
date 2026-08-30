@@ -1,2 +1,5 @@
 # PF-Lab02
-Syed Hussain Shah 26P-3065
+NAME: Syed Hussain Shah 
+ROLL NO: 26P-3065
+SECTION: SE-B
+INSTRUCTOR NAME: M.Aais Rabbani
